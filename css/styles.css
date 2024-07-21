@@ -50,6 +50,7 @@ a {
   border-radius: 30px;
   background: #239fdb;
   border: none;
+  cursor: pointer;
 }
 
 .buy-span {
